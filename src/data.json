@@ -1,10 +1,10 @@
 [
   {
-    "icon" : "/assets/images/008-mailbox.png",
+    "icon" : "//github.com/hyxhuynh/ClickyGame/blob/master/public/assets/images/008-mailbox.png",
     "key": 1
   },
   {
-    "icon" : "/assets/images/012-ace-of-hearts.png",
+    "icon" : "https://cdn2.iconfinder.com/data/icons/valentine-2017-11/64/7_heart_love_like_relation_attract_feeling_valentine-512.png",
     "key":  2
   },
   {
